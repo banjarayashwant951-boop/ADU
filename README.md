@@ -35,13 +35,3 @@ This self-project focuses on the simulation of an **atmospheric crude oil distil
 - Insight into vapor–liquid equilibrium behavior in multicomponent systems  
 - Practical exposure to column design and performance evaluation  
 
-## 📁 Project Files
-- Aspen Plus simulation file (`.bkp`)
-- Supporting calculation or notes (if any)
-
-## 📅 Duration
-**August 2025**
-
-## 👤 Author
-**Yashwant Banjara**  
-Chemical Engineering
